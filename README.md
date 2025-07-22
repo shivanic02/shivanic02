@@ -81,7 +81,7 @@ Currently, I’m focused on projects involving data modeling, NLP, and AI-powere
 
 - 📧 **Email**: shivanic1302@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/shivanic13)  
-- 💬 **Discord**: `1149770320006353037` 
+- [💬 Discord](https://discord.com/users/1149770320006353037) 
 
 ---
 
