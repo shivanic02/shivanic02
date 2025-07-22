@@ -79,10 +79,9 @@ Currently, I’m focused on projects involving data modeling, NLP, and AI-powere
 
 ## 📫 Let's Connect!
 
-- 📧 **Email**: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(optional)*  
-- 🗂️ [Resume (PDF)](https://your-resume-link.com) *(optional)*
+- 📧 **Email**: shivanic1302@gmail.com 
+- 💼 [LinkedIn](https://linkedin.com/in/shivanic13)  
+- 💬 **Discord**: `1149770320006353037` 
 
 ---
 
