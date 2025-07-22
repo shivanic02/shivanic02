@@ -1,9 +1,11 @@
-# 👋 Hi there, I'm Shivani Chauhan!
+# I'm Shivani Chauhan
 
-🎓 MS in Data Science @ ASU  
-📊 BI, Data Analytics & Machine Learning Enthusiast  
-🌏 International Student | 🧳 Seeking H1B Sponsorship Roles  
-🚀 I turn data into decisions with curiosity, clarity & code  
+I'm a Data Science graduate student at Arizona State University with a strong foundation in statistics, machine learning, and business analytics. I’m passionate about solving real-world problems using data and delivering actionable insights through effective storytelling and visualizations.
+
+My academic background is complemented by hands-on experience in building intelligent tools—from browser extensions that enhance productivity to interactive dashboards and recommendation systems. I enjoy working at the intersection of data, technology, and user impact.
+
+Currently, I’m focused on projects involving data modeling, NLP, and AI-powered user experiences.
+ 
 
 ---
 
