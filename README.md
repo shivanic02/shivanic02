@@ -1,11 +1,14 @@
-# I'm Shivani Chauhan
+# Hey there, I'm Shivani!
 
-I'm a Data Science graduate student from Arizona State University with a strong foundation in statistics, machine learning, and business analytics. I’m passionate about solving real-world problems using data and delivering actionable insights through effective storytelling and visualizations.
+Welcome to my digital workshop! I'm a recent M.S. graduate from Arizona State University, where I specialized in Data Science, Analytics, and Engineering. I thrive on transforming complex problems into elegant, intelligent solutions.
 
-My academic background is complemented by hands-on experience in building intelligent tools—from browser extensions that enhance productivity to interactive dashboards and recommendation systems. I enjoy working at the intersection of data, technology, and user impact.
+My passion lies at the intersection of full-stack development and artificial intelligence. I love the entire creation process—from designing intuitive user experiences with 
 
-Currently, I’m focused on projects involving data modeling, NLP, and AI-powered user experiences.
- 
+React and JavaScript to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI. I'm especially fascinated by the power of Natural Language Processing and have experience fine-tuning large vision-language models.
+
+I’m always learning and currently diving deeper into scalable, cloud-native AI systems.
+
+Feel free to browse my projects or reach out. I'm always excited to connect with fellow tech enthusiasts and collaborate on innovative ideas!
 
 ---
 
