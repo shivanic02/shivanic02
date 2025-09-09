@@ -83,8 +83,8 @@ Feel free to browse my projects or reach out. I'm always excited to connect with
 ## 📫 Let's Connect!
 
 - 📧 [Email](mailto:shivanic1302@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/shivanic13)  
-- [💬 Discord](https://discord.com/users/1149770320006353037) 
+- 💼 [LinkedIn](https://linkedin.com/in/shivanic13)
+- 💬 [Discord](https://discord.com/users/1149770320006353037) 
 
 ---
 
