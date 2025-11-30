@@ -2,7 +2,7 @@
 
 Welcome to my digital workshop! I'm a recent M.S. graduate from Arizona State University, where I specialized in Data Science, Analytics, and Engineering. I thrive on transforming complex problems into elegant, intelligent solutions.
 
-My passion lies at the intersection of full-stack development and artificial intelligence. I love the entire creation process—from designing intuitive user experiences with 
+My passion lies at the intersection of full-stack development and artificial intelligence. I love the entire creation process... from designing intuitive user experiences with 
 
 React and JavaScript to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI. I'm especially fascinated by the power of Natural Language Processing and have experience fine-tuning large vision-language models.
 
