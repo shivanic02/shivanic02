@@ -1,89 +1,97 @@
-# Hey there, I'm Shivani!
+<div align="center">
 
-Welcome to my digital workshop! I'm a recent M.S. graduate from Arizona State University, where I specialized in Data Science, Analytics, and Engineering. I thrive on transforming complex problems into elegant, intelligent solutions.
+<!-- Moving Typing Effect Header -->
 
-My passion lies at the intersection of full-stack development and artificial intelligence. I love the entire creation process... from designing intuitive user experiences with React and JavaScript to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI. I'm especially fascinated by the power of Natural Language Processing and have experience fine-tuning large vision-language models.
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D32%26pause%3D1000%26color%3D00F5A0%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%2Bthere,%2BI%27m%2BShivani!%3BData%2BScientist%2B%257C%2BAI%2BEngineer%3BFull-Stack%2BDeveloper%3BWelcome%2Bto%2Bmy%2Bdigital%2Bworkshop!" alt="Typing SVG" />
 
-I’m always learning and currently diving deeper into scalable, cloud-native AI systems.
+<!-- Profile View Counter -->
 
-Feel free to browse my projects or reach out. I'm always excited to connect with fellow tech enthusiasts and collaborate on innovative ideas!
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dshivanic02%26color%3D00F5A0%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+</p>
 
----
+🚀 Explore My Full Interactive Portfolio at sc13.vercel.app
 
-## 💻 Tech Stack
+<div align="center">
 
-### 🧑‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+<!-- Incorporating your moving chick GIF -->
 
----
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/YOUR_PORTFOLIO_REPO_NAME/main/public/_.gif" width="80" alt="Coding Chick" />
 
-### 📊 Data Science & ML  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![mlflow](https://img.shields.io/badge/-mlflow-020F16?style=flat-square&logo=mlflow&logoColor=white)
+M.S. in Data Science, Analytics, and Engineering @ Arizona State University. 
 
----
 
-### 📈 Business Intelligence & Visualization  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Smartsheet](https://img.shields.io/badge/-Smartsheet-003366?style=flat-square&logo=smartsheet&logoColor=white)
 
----
 
-### ⚙️ Backend & Frameworks  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+Transforming complex problems into elegant, intelligent solutions.
 
----
+</div>
 
-### 🗃️ Databases & Cloud  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+🧠 About Me
 
----
+My passion lies at the intersection of full-stack development and artificial intelligence. I love the entire creation process—from designing intuitive user experiences with React to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI.
 
-### 🛠️ Tools & DevOps  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+🔭 Currently Focusing On: Scalable, cloud-native AI systems & Fine-tuning large vision-language models.
 
----
+🌱 Always Learning: Graph-RAG architectures and advanced Natural Language Processing.
 
-## 📫 Let's Connect!
+🤝 Looking to Collaborate: On innovative open-source AI tools and data engineering pipelines.
 
-- 📧 [Email](mailto:shivanic1302@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/shivanic13)
-- 💬 [Discord](https://discord.com/users/1149770320006353037) 
+🛠️ Interactive Tech Stack
 
----
+(Hover over the icons!)
 
-⭐️ *Thanks for visiting! Feel free to star a project or connect with me!*
+<div align="center">
+<a href="https://www.google.com/search?q=https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,r,java,cpp,js,html,css,md%26theme%3Ddark" />
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nodejs,express,django,flask,fastapi%26theme%3Ddark" />
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgres,mongodb,firebase,aws,azure,docker,git,github,vscode,postman%26theme%3Ddark" />
+</a>
+</div>
+
+<details>
+<summary><b>📊 Click to view specialized Data Science & ML Tools</b></summary>
+
+
+
+
+</details>
+
+📈 Live GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshivanic02%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26ring_color%3D00F5A0" alt="Shivani's GitHub stats" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshivanic02%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" width="48%" />
+</div>
+
+🐍 Contribution Snake Game
+
+A snake eating my GitHub contribution graph!
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/shivanic02/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/shivanic02/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/shivanic02/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+📫 Let's Connect!
+
+<div align="center">
+<a href="mailto:shivanic1302@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-00F5A0%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dblack" alt="Email" /></a>
+<a href="https://linkedin.com/in/shivanic13"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
+<a href="https://www.google.com/search?q=https://sc13.vercel.app"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-1A1A2E%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3D00F5A0" alt="Portfolio" /></a>
+</div>
