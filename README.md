@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Waving Ghibli Character on the Right -->
-<img align="right" src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="220" alt="Waving Ghibli Character" />
+<img align="right" src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="320" alt="Waving Ghibli Character" />
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
 *Transforming complex problems into elegant, intelligent solutions.*
