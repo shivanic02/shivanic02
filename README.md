@@ -8,12 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-### [Explore my Portfolio](https://sc13.vercel.app)
+###  [Explore my Portfolio](https://sc13.vercel.app)
 
 <br/>
-
-<!-- Waving Ghibli Character on the Right -->
-<img align="right" src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="320" alt="Waving Ghibli Character" />
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
 *Transforming complex problems into elegant, intelligent solutions.*
@@ -22,11 +19,15 @@
 
 ---
 
-### About Me
+###  About Me
+
+<!-- Waving Ghibli Character floating cleanly next to the text -->
+<img align="right" src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="220" alt="Waving Ghibli Character" />
+
 My passion lies at the intersection of **full-stack development** and **artificial intelligence**. I love the entire creation process—from designing intuitive user experiences with React to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI. 
 
-*  **Currently Focusing On:** Scalable, cloud-native AI systems & Fine-tuning large vision-language models.
-*  **Always Learning:** Graph-RAG architectures and advanced Natural Language Processing.
+* **Currently Focusing On:** Building scalable AI solutions and developing robust Machine Learning forecasting models.
+* **Always Learning:** Graph-RAG architectures and advanced Natural Language Processing.
 * **Looking to Collaborate:** On innovative open-source AI tools and data engineering pipelines.
 
 ---
