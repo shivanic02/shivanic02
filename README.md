@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS)
 
-###  [Explore My Full Interactive Portfolio at sc13.vercel.app](https://sc13.vercel.app)
+###  [Explore my Portfolio](https://sc13.vercel.app)
 
 <img src="https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1" width="80" alt="Coding Chick" />
 
