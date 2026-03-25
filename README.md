@@ -30,6 +30,9 @@ My passion lies at the intersection of **full-stack development** and **artifici
 * **Always Learning:** Graph-RAG architectures and advanced Natural Language Processing.
 * **Looking to Collaborate:** On innovative open-source AI tools and data engineering pipelines.
 
+  <!-- This invisible tag forces the dividing line to sit below the image -->
+<br clear="both"/>
+
 ---
 
 ###  Interactive Tech Stack
