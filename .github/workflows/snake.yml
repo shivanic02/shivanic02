@@ -5,6 +5,10 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+# FIX 1: Explicitly grant the action permission to write/push to your repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,8 +20,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
+      # FIX 2: Updated to v4 to remove the Node.js yellow warning
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
