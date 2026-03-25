@@ -1,14 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivani!%3BData+Scientist+%7C+AI+Engineer%3BFull-Stack+Developer%3BWelcome+to+my+digital+workshop!)](https://github.com/shivanic02)
+<!-- Moving Typing Effect Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivani!;Data+Scientist+%7C+AI+Engineer;Full-Stack+Developer;Welcome+to+my+digital+workshop!" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS)
+<!-- Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-###  [Explore my Portfolio](https://sc13.vercel.app)
+### [Explore my Portfolio](https://sc13.vercel.app)
 
-<img src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="90" alt="Ghibli" />
+<br/>
 
-
+<!-- Waving Ghibli Character on the Right -->
+<img align="right" src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="220" alt="Waving Ghibli Character" />
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
 *Transforming complex problems into elegant, intelligent solutions.*
