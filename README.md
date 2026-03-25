@@ -6,7 +6,9 @@
 
 ### 🚀 [Explore My Full Interactive Portfolio at sc13.vercel.app](https://sc13.vercel.app)
 
-*(DELETE THIS LINE AND DRAG & DROP YOUR _.gif FILE HERE)*
+* ![_](https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1) *
+
+
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
 *Transforming complex problems into elegant, intelligent solutions.*
