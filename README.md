@@ -7,6 +7,8 @@
 ###  [Explore my Portfolio](https://sc13.vercel.app)
 
 <img src="https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1" width="80" alt="Coding Chick" />
+<img src="https://github.com/user-attachments/assets/fb4e687d-365c-47b5-ab80-3ca21fd5e65b" width="90" alt="Stitch" />
+
 
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
