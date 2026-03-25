@@ -10,13 +10,13 @@
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dshivanic02%26color%3D00F5A0%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
 </p>
 
-🚀 Explore My Full Interactive Portfolio at sc13.vercel.app
+🚀 Explore My Portfolio at https://sc13.vercel.app
 
 <div align="center">
 
 <!-- Incorporating your moving chick GIF -->
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/YOUR_PORTFOLIO_REPO_NAME/main/public/_.gif" width="80" alt="Coding Chick" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/shivanic02/shivanic02/main/public/_.gif" width="80" alt="Coding Chick" />
 
 M.S. in Data Science, Analytics, and Engineering @ Arizona State University. 
 
