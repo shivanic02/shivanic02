@@ -9,6 +9,8 @@
 <img src="https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1" width="80" alt="Coding Chick" />
 <img src="https://github.com/user-attachments/assets/fb4e687d-365c-47b5-ab80-3ca21fd5e65b" width="90" alt="Stitch" />
 
+<img src="https://github.com/user-attachments/assets/ab62bbce-527b-4a0b-9611-cc49368ab4c9)" width="90" alt="Stitch" />
+
 
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
