@@ -4,10 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS)
 
-### 🚀 [Explore My Full Interactive Portfolio at sc13.vercel.app](https://sc13.vercel.app)
+###  [Explore My Full Interactive Portfolio at sc13.vercel.app](https://sc13.vercel.app)
 
-* ![_](https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1) *
-
+<img src="https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1" width="80" alt="Coding Chick" />
 
 
 *M.S. in Data Science, Analytics, and Engineering @ Arizona State University.* <br>
@@ -17,16 +16,16 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 My passion lies at the intersection of **full-stack development** and **artificial intelligence**. I love the entire creation process—from designing intuitive user experiences with React to engineering powerful backend systems with Node.js, and bringing them to life with cutting-edge AI. 
 
-* 🔭 **Currently Focusing On:** Scalable, cloud-native AI systems & Fine-tuning large vision-language models.
-* 🌱 **Always Learning:** Graph-RAG architectures and advanced Natural Language Processing.
-* 🤝 **Looking to Collaborate:** On innovative open-source AI tools and data engineering pipelines.
+*  **Currently Focusing On:** Scalable, cloud-native AI systems & Fine-tuning large vision-language models.
+*  **Always Learning:** Graph-RAG architectures and advanced Natural Language Processing.
+* **Looking to Collaborate:** On innovative open-source AI tools and data engineering pipelines.
 
 ---
 
-### 🛠️ Interactive Tech Stack
+###  Interactive Tech Stack
 *(Hover over the icons!)*
 
 <div align="center">
@@ -42,7 +41,7 @@ My passion lies at the intersection of **full-stack development** and **artifici
 <br>
 
 <details>
-<summary><b>📊 Click to view specialized Data Science & ML Tools</b></summary>
+<summary><b> Click to view specialized Data Science & ML Tools</b></summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -58,7 +57,7 @@ My passion lies at the intersection of **full-stack development** and **artifici
 
 ---
 
-### 📈 Live GitHub Stats
+###  Live GitHub Stats
 
 <div align="center">
 
@@ -70,7 +69,7 @@ My passion lies at the intersection of **full-stack development** and **artifici
 
 ---
 
-### 🐍 Contribution Snake Game
+###  Contribution Snake Game
 *A snake eating my GitHub contribution graph!*
 
 <div align="center">
@@ -81,7 +80,7 @@ My passion lies at the intersection of **full-stack development** and **artifici
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 <div align="center">
 
