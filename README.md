@@ -71,7 +71,8 @@ My passion lies at the intersection of **full-stack development** and **artifici
 
 <div align="center">
 
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanic02&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00F5A0)
+![Shivani's GitHub stats](<img src="[https://github-readme-stats.vercel.app/api?username=shivanic02&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00F5A0&hide_rank=true](https://github-readme-stats.vercel.app/api?username=shivanic02&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00F5A0&hide_rank=true)" alt="Shivani's GitHub stats" width="48%" />
+)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanic02&layout=compact&theme=tokyonight&hide_border=true)
 
