@@ -7,7 +7,7 @@
 ###  [Explore my Portfolio](https://sc13.vercel.app)
 
 <img src="https://github.com/user-attachments/assets/796a4c31-4f43-4dbc-9f54-62aff9cddad1" width="80" alt="Coding Chick" />
-<img src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d)" width="90" alt="Ghibli" />
+<img src="https://github.com/user-attachments/assets/8f472143-5ee4-446f-b5f8-b7eb96c2578d" width="90" alt="Ghibli" />
 
 
 
