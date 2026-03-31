@@ -3,7 +3,7 @@
 <!-- Moving Typing Effect Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivani!;Data+Scientist+%7C+AI+Engineer;Full-Stack+Developer;Welcome+to+my+digital+workshop!" alt="Typing SVG" />
 
-<!-- Profile View Counter -->
+<!-- Profile View Counter --->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanic02&color=00F5A0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
